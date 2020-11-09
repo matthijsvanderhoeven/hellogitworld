@@ -5,7 +5,7 @@
 
 trigger:
 - master
-- brachtriggertest
+- branchtriggertest
 
 pool:
   vmImage: 'ubuntu-latest'
