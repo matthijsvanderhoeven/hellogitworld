@@ -4,8 +4,6 @@ import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
-//Test for trigger
-
 //Pending comments
 
 //Some comments on the master branch
