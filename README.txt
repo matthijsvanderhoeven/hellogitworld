@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mvanderhoeven/internship-september-matthijsvanderhoeven-pipeline/_apis/build/status/matthijsvanderhoeven.hellogitworld?branchName=master)](https://dev.azure.com/mvanderhoeven/internship-september-matthijsvanderhoeven-pipeline/_build/latest?definitionId=2&branchName=master)
 This is a sample project students can use during Matthew's Git class.
 
 Here is an addition by me
