@@ -16,3 +16,13 @@
     </dependency>
   </dependencies>
 </project>
+<repository>
+  <id>testfeed</id>
+  <url>https://pkgs.dev.azure.com/mvanderhoeven/internship-september-matthijsvanderhoeven-pipeline/_packaging/testfeed/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
